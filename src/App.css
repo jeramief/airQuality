@@ -1,3 +1,9 @@
+body {
+  background-image: url("./assets/img/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .bg-orange {
   background-color: #FFA500;
 }
@@ -9,3 +15,6 @@
 .bg-hazardous {
   background-color: #7E0023;
 }
+
+
+/* queries */
